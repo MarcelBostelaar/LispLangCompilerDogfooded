@@ -1,0 +1,3 @@
+[submodule "LispLangInterpreter"]
+	path = LispLangInterpreter
+	url = https://github.com/MarcelBostelaar/LispLangInterpreter.git
